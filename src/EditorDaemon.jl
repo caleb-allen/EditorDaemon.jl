@@ -1,5 +1,4 @@
 module EditorDaemon
-
-# Write your package code here.
+include("types")
 
 end
